@@ -17,7 +17,6 @@
 - **Intuitive Menu**: Navigate with up/down arrow keys and Enter—no flicker, just smooth!
 - **Drag-and-Drop**: Drop a folder onto the executable to process files instantly.
 - **Clean Workflow**: Deletes `.txt` and `.bkp` files after import, no `.lsb` backups created.
-- **Stylish Console**: Cyan (#aafffc) and white interface with a sleek "Ameer Xoshnaw" header.
 - **Windows-Optimized**: Built for Windows, leveraging native APIs for performance.
 
 ##Getting Started
