@@ -32,4 +32,4 @@
    git clone https://github.com/kh0shn4w/LSBExtractImport.git
    cd LSBExtractImport
 
-<div align="center"><img src="assets/thumbnail.png" alt="LSBExtractImport Thumbnail" width="600"/>
+<div align="center"><img src="assets/thumbnail2.png" alt="LSBExtractImport Thumbnail" width="600"/>
