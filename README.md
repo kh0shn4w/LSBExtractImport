@@ -31,3 +31,5 @@
    ```bash
    git clone https://github.com/kh0shn4w/LSBExtractImport.git
    cd LSBExtractImport
+
+<img src="assets/thumbnail.png" alt="LSBExtractImport Thumbnail" width="600"/>
