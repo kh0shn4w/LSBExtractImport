@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>LSBExtractImport</h1>
+<div align="center"><h1>LSBExtractImport</h1>
   <p><strong>A console tool to extract and import <em>Life is Strange: Before the Storm</em> subtitle files</strong></p>
   <p>Effortlessly convert <code>.lsb</code> files to editable <code>.txt</code> and back, with full UTF-8 support, a smooth arrow-key menu, and drag-and-drop folder magic. Built with ❤️ by Ameer Xoshnaw.</p>
 
